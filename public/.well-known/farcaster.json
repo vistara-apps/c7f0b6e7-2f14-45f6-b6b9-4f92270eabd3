@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "SkillSwap Connect",
+    "subtitle": "Built with Zara",
+    "description": "SkillSwap Connect is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://c7f0b6e72f1445f6b6b94f92270eabd3-lmp3.vercel.app",
+    "splashImageUrl": "https://c7f0b6e72f1445f6b6b94f92270eabd3-lmp3.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://c7f0b6e72f1445f6b6b94f92270eabd3-lmp3.vercel.app/image.png",
+    "tagline": "SkillSwap Connect",
+    "screenshotUrls": [
+      "https://c7f0b6e72f1445f6b6b94f92270eabd3-lmp3.vercel.app/screenshot.png",
+      "https://c7f0b6e72f1445f6b6b94f92270eabd3-lmp3.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://c7f0b6e72f1445f6b6b94f92270eabd3-lmp3.vercel.app/api/webhook"
+  }
+}
